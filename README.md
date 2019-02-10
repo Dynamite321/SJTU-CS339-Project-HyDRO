@@ -20,7 +20,7 @@ The pipeline is shown below.
 
 ## Simulation Parameters
 | **Parameter** | **Value** |
-| ------- | :-----: |
+| -------- | :------: |
 | Simulation duration | 20min |
 | Number of nodes | 20 |
 | Size of deployment area | 2km<sup>2</sup> |
@@ -31,3 +31,14 @@ The pipeline is shown below.
 | Packet inter-arrival time | \[5,4,3\](low to high traffic) |
 | Number of retransmissions K | \[5,4,3\](low to high) |
 | Discount factor \gamma | 0.95 |
+
+## Simulation by NS2
+For the video of our simulation, please refer to the PPT.
+![3](./figure/visual.png)
+
+## Results
+- Energy consumption statistics
+![4](./figure/routing-change.png)
+
+## Run
+
