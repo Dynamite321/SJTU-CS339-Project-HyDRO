@@ -41,4 +41,4 @@ For the video of our simulation, please refer to the PPT.
 ![4](./figure/routing-change.png)
 
 ## Run
-
+You can adjust parameters in file `.code/HyDRO/include/parameters.h`
