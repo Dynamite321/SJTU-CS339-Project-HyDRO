@@ -1,0 +1,913 @@
+Node 0: Vibration
+Node 1: Vibration
+Node 2: Solar
+Node 3: Solar
+Node 4: Vibration
+Node 5: Vibration
+Node 6: Vibration
+Node 7: Vibration
+Node 8: Vibration
+Node 9: Vibration
+Node 10: Vibration
+Node 11: Solar
+Node 12: Vibration
+Node 13: Vibration
+Node 14: Vibration
+Node 15: Vibration
+Node 16: Vibration
+Node 17: Vibration
+Node 18: Vibration
+Node 0 connect: 19 
+Node 1 connect: 7 9 13 15 18 
+Node 2 connect: 0 10 12 16 19 
+Node 3 connect: 2 4 6 8 10 11 14 17 
+Node 4 connect: 0 2 8 10 12 16 
+Node 5 connect: 3 4 6 10 14 16 17 
+Node 6 connect: 0 2 4 8 10 12 16 17 
+Node 7 connect: 3 4 5 6 11 14 17 
+Node 8 connect: 0 2 10 12 16 19 
+Node 9 connect: 3 5 7 14 15 18 
+Node 10 connect: 0 12 16 19 
+Node 11 connect: 0 2 4 6 8 10 12 16 17 
+Node 12 connect: 0 19 
+Node 13 connect: 3 5 7 9 14 15 18 
+Node 14 connect: 2 4 6 8 10 11 16 17 
+Node 15 connect: 3 5 7 14 18 
+Node 16 connect: 0 12 19 
+Node 17 connect: 0 2 4 8 10 12 16 
+Node 18 connect: 3 4 5 6 7 14 17 
+Time: 0min <50m Use: 0
+Time: 0min >50m Use: 0
+1 produced! It's source ID :4
+Time: 0, Packet ID: 0, Forward Packet from:4 to 0
+Time: 0, Packet ID: 0, Forward Packet from:0 to 19
+2 produced! It's source ID :16
+Time: 3, Packet ID: 1, Forward Packet from:16 to 0
+Time: 3, Packet ID: 1, Forward Packet from:0 to 19
+3 produced! It's source ID :9
+Time: 4, Packet ID: 2, Forward Packet from:9 to 3
+Time: 4, Packet ID: 2, Forward Packet from:3 to 4
+Time: 4, Packet ID: 2, Forward Packet from:4 to 0
+Time: 4, Packet ID: 2, Forward Packet from:0 to 19
+4 produced! It's source ID :3
+Time: 15, Packet ID: 3, Forward Packet from:3 to 4
+Time: 15, Packet ID: 3, Forward Packet from:4 to 0
+Time: 15, Packet ID: 3, Forward Packet from:0 to 19
+5 produced! It's source ID :3
+Time: 16, Packet ID: 4, Forward Packet from:3 to 4
+Time: 16, Packet ID: 4, Forward Packet from:4 to 0
+Time: 16, Packet ID: 4, Forward Packet from:0 to 19
+6 produced! It's source ID :8
+Time: 18, Packet ID: 5, Forward Packet from:8 to 0
+Time: 18, Packet ID: 5, Forward Packet from:0 to 19
+7 produced! It's source ID :18
+Time: 21, Packet ID: 6, Forward Packet from:18 to 4
+Time: 21, Packet ID: 6, Forward Packet from:4 to 0
+Time: 21, Packet ID: 6, Forward Packet from:0 to 19
+8 produced! It's source ID :13
+Time: 24, Packet ID: 7, Forward Packet from:13 to 9
+Time: 24, Packet ID: 7, Forward Packet from:9 to 3
+Time: 24, Packet ID: 7, Forward Packet from:3 to 4
+Time: 24, Packet ID: 7, Forward Packet from:4 to 0
+Time: 24, Packet ID: 7, Forward Packet from:0 to 19
+9 produced! It's source ID :6
+Time: 26, Packet ID: 8, Forward Packet from:6 to 0
+Time: 26, Packet ID: 8, Forward Packet from:0 to 19
+Time: 0.5min <50m Use: 27.405
+Time: 0.5min >50m Use: 214.673
+10 produced! It's source ID :13
+Time: 39, Packet ID: 9, Forward Packet from:13 to 9
+Time: 39, Packet ID: 9, Forward Packet from:9 to 3
+Time: 39, Packet ID: 9, Forward Packet from:3 to 4
+Time: 39, Packet ID: 9, Forward Packet from:4 to 0
+Time: 39, Packet ID: 9, Forward Packet from:0 to 19
+11 produced! It's source ID :1
+Time: 40, Packet ID: 10, Forward Packet from:1 to 9
+Time: 40, Packet ID: 10, Forward Packet from:9 to 3
+Time: 40, Packet ID: 10, Forward Packet from:3 to 4
+Time: 40, Packet ID: 10, Forward Packet from:4 to 0
+Time: 40, Packet ID: 10, Forward Packet from:0 to 19
+12 produced! It's source ID :3
+Time: 45, Packet ID: 11, Forward Packet from:3 to 4
+Time: 45, Packet ID: 11, Forward Packet from:4 to 0
+Time: 45, Packet ID: 11, Forward Packet from:0 to 19
+13 produced! It's source ID :13
+Time: 50, Packet ID: 12, Forward Packet from:13 to 9
+Time: 50, Packet ID: 12, Forward Packet from:9 to 3
+Time: 50, Packet ID: 12, Forward Packet from:3 to 4
+Time: 50, Packet ID: 12, Forward Packet from:4 to 0
+Time: 50, Packet ID: 12, Forward Packet from:0 to 19
+14 produced! It's source ID :2
+Time: 52, Packet ID: 13, Forward Packet from:2 to 0
+Time: 52, Packet ID: 13, Forward Packet from:0 to 19
+15 produced! It's source ID :8
+Time: 1min <50m Use: 45.675
+Time: 1min >50m Use: 276.334
+Time: 60, Packet ID: 14, Forward Packet from:8 to 0
+Time: 60, Packet ID: 14, Forward Packet from:0 to 19
+16 produced! It's source ID :14
+Time: 61, Packet ID: 15, Forward Packet from:14 to 4
+Time: 61, Packet ID: 15, Forward Packet from:4 to 0
+Time: 61, Packet ID: 15, Forward Packet from:0 to 19
+17 produced! It's source ID :17
+Time: 63, Packet ID: 16, Forward Packet from:17 to 0
+Time: 63, Packet ID: 16, Forward Packet from:0 to 19
+18 produced! It's source ID :18
+Time: 78, Packet ID: 17, Forward Packet from:18 to 4
+Time: 78, Packet ID: 17, Forward Packet from:4 to 0
+Time: 78, Packet ID: 17, Forward Packet from:0 to 19
+19 produced! It's source ID :10
+Time: 83, Packet ID: 18, Forward Packet from:10 to 0
+Time: 83, Packet ID: 18, Forward Packet from:0 to 19
+20 produced! It's source ID :17
+Time: 85, Packet ID: 19, Forward Packet from:17 to 0
+Time: 85, Packet ID: 19, Forward Packet from:0 to 19
+21 produced! It's source ID :5
+Time: 87, Packet ID: 20, Forward Packet from:5 to 4
+Time: 87, Packet ID: 20, Forward Packet from:4 to 0
+Time: 87, Packet ID: 20, Forward Packet from:0 to 19
+Time: 1.5min <50m Use: 45.675
+Time: 1.5min >50m Use: 337.995
+22 produced! It's source ID :7
+Time: 92, Packet ID: 21, Forward Packet from:7 to 4
+Time: 92, Packet ID: 21, Forward Packet from:4 to 0
+Time: 92, Packet ID: 21, Forward Packet from:0 to 19
+23 produced! It's source ID :4
+Time: 95, Packet ID: 22, Forward Packet from:4 to 0
+Time: 95, Packet ID: 22, Forward Packet from:0 to 19
+24 produced! It's source ID :12
+Time: 110, Packet ID: 23, Forward Packet from:12 to 0
+Time: 110, Packet ID: 23, Forward Packet from:0 to 19
+25 produced! It's source ID :3
+Time: 120, Packet ID: 24, Forward Packet from:3 to 4
+Time: 120, Packet ID: 24, Forward Packet from:4 to 0
+Time: 2min <50m Use: 47.9587
+Time: 2min >50m Use: 367.684
+Time: 120, Packet ID: 24, Forward Packet from:0 to 19
+26 produced! It's source ID :11
+Time: 122, Packet ID: 25, Forward Packet from:11 to 0
+Time: 122, Packet ID: 25, Forward Packet from:0 to 19
+27 produced! It's source ID :16
+Time: 123, Packet ID: 26, Forward Packet from:16 to 0
+Time: 123, Packet ID: 26, Forward Packet from:0 to 19
+28 produced! It's source ID :14
+Time: 124, Packet ID: 27, Forward Packet from:14 to 4
+Time: 124, Packet ID: 27, Forward Packet from:4 to 0
+Time: 124, Packet ID: 27, Forward Packet from:0 to 19
+29 produced! It's source ID :1
+Time: 125, Packet ID: 28, Forward Packet from:1 to 9
+Time: 125, Packet ID: 28, Forward Packet from:9 to 3
+Time: 125, Packet ID: 28, Forward Packet from:3 to 4
+Time: 125, Packet ID: 28, Forward Packet from:4 to 0
+Time: 125, Packet ID: 28, Forward Packet from:0 to 19
+30 produced! It's source ID :13
+Time: 126, Packet ID: 29, Forward Packet from:13 to 9
+Time: 126, Packet ID: 29, Forward Packet from:9 to 3
+Time: 126, Packet ID: 29, Forward Packet from:3 to 4
+Time: 126, Packet ID: 29, Forward Packet from:4 to 0
+Time: 126, Packet ID: 29, Forward Packet from:0 to 19
+31 produced! It's source ID :2
+Time: 128, Packet ID: 30, Forward Packet from:2 to 0
+Time: 128, Packet ID: 30, Forward Packet from:0 to 19
+32 produced! It's source ID :10
+Time: 139, Packet ID: 31, Forward Packet from:10 to 0
+Time: 139, Packet ID: 31, Forward Packet from:0 to 19
+33 produced! It's source ID :15
+Time: 142, Packet ID: 32, Forward Packet from:15 to 3
+Time: 142, Packet ID: 32, Forward Packet from:3 to 4
+Time: 142, Packet ID: 32, Forward Packet from:4 to 0
+Time: 142, Packet ID: 32, Forward Packet from:0 to 19
+Time: 2.5min <50m Use: 68.5125
+Time: 2.5min >50m Use: 484.155
+34 produced! It's source ID :2
+Time: 162, Packet ID: 33, Forward Packet from:2 to 0
+Time: 162, Packet ID: 33, Forward Packet from:0 to 19
+35 produced! It's source ID :10
+Time: 167, Packet ID: 34, Forward Packet from:10 to 0
+Time: 167, Packet ID: 34, Forward Packet from:0 to 19
+36 produced! It's source ID :11
+Time: 173, Packet ID: 35, Forward Packet from:11 to 0
+Time: 173, Packet ID: 35, Forward Packet from:0 to 19
+37 produced! It's source ID :2
+Time: 174, Packet ID: 36, Forward Packet from:2 to 0
+Time: 174, Packet ID: 36, Forward Packet from:0 to 19
+38 produced! It's source ID :13
+Time: 178, Packet ID: 37, Forward Packet from:13 to 9
+Time: 178, Packet ID: 37, Forward Packet from:9 to 3
+Time: 178, Packet ID: 37, Forward Packet from:3 to 4
+Time: 178, Packet ID: 37, Forward Packet from:4 to 0
+Time: 178, Packet ID: 37, Forward Packet from:0 to 19
+Time: 3min <50m Use: 79.9312
+Time: 3min >50m Use: 520.695
+39 produced! It's source ID :4
+Time: 184, Packet ID: 38, Forward Packet from:4 to 0
+Time: 184, Packet ID: 38, Forward Packet from:0 to 19
+40 produced! It's source ID :14
+Time: 191, Packet ID: 39, Forward Packet from:14 to 4
+Time: 191, Packet ID: 39, Forward Packet from:4 to 0
+Time: 191, Packet ID: 39, Forward Packet from:0 to 19
+41 produced! It's source ID :12
+Time: 197, Packet ID: 40, Forward Packet from:12 to 0
+Time: 197, Packet ID: 40, Forward Packet from:0 to 19
+Time: 3.5min <50m Use: 79.9312
+Time: 3.5min >50m Use: 545.816
+42 produced! It's source ID :15
+Time: 211, Packet ID: 41, Forward Packet from:15 to 3
+Time: 211, Packet ID: 41, Forward Packet from:3 to 4
+Time: 211, Packet ID: 41, Forward Packet from:4 to 0
+Time: 211, Packet ID: 41, Forward Packet from:0 to 19
+43 produced! It's source ID :12
+Time: 214, Packet ID: 42, Forward Packet from:12 to 0
+Time: 214, Packet ID: 42, Forward Packet from:0 to 19
+44 produced! It's source ID :17
+Time: 215, Packet ID: 43, Forward Packet from:17 to 0
+Time: 215, Packet ID: 43, Forward Packet from:0 to 19
+45 produced! It's source ID :13
+Time: 221, Packet ID: 44, Forward Packet from:13 to 9
+Time: 221, Packet ID: 44, Forward Packet from:9 to 3
+Time: 221, Packet ID: 44, Forward Packet from:3 to 4
+Time: 221, Packet ID: 44, Forward Packet from:4 to 0
+Time: 221, Packet ID: 44, Forward Packet from:0 to 19
+46 produced! It's source ID :10
+Time: 238, Packet ID: 45, Forward Packet from:10 to 0
+Time: 238, Packet ID: 45, Forward Packet from:0 to 19
+Time: 4min <50m Use: 89.0662
+Time: 4min >50m Use: 593.775
+47 produced! It's source ID :9
+Time: 245, Packet ID: 46, Forward Packet from:9 to 3
+Time: 245, Packet ID: 46, Forward Packet from:3 to 4
+Time: 245, Packet ID: 46, Forward Packet from:4 to 0
+Time: 245, Packet ID: 46, Forward Packet from:0 to 19
+48 produced! It's source ID :8
+Time: 248, Packet ID: 47, Forward Packet from:8 to 0
+Time: 248, Packet ID: 47, Forward Packet from:0 to 19
+49 produced! It's source ID :0
+Time: 249, Packet ID: 48, Forward Packet from:0 to 19
+50 produced! It's source ID :17
+Time: 257, Packet ID: 49, Forward Packet from:17 to 0
+Time: 257, Packet ID: 49, Forward Packet from:0 to 19
+51 produced! It's source ID :12
+Time: 264, Packet ID: 50, Forward Packet from:12 to 0
+Time: 264, Packet ID: 50, Forward Packet from:0 to 19
+Time: 4.5min <50m Use: 93.6337
+Time: 4.5min >50m Use: 628.031
+Time: 5min <50m Use: 93.6337
+Time: 5min >50m Use: 628.031
+52 produced! It's source ID :4
+Time: 323, Packet ID: 51, Forward Packet from:4 to 0
+Time: 323, Packet ID: 51, Forward Packet from:0 to 19
+Time: 5.5min <50m Use: 93.6337
+Time: 5.5min >50m Use: 634.883
+53 produced! It's source ID :11
+Time: 334, Packet ID: 52, Forward Packet from:11 to 0
+Time: 334, Packet ID: 52, Forward Packet from:0 to 19
+Time: 6min <50m Use: 95.9175
+Time: 6min >50m Use: 639.45
+54 produced! It's source ID :6
+Time: 364, Packet ID: 53, Forward Packet from:6 to 0
+Time: 364, Packet ID: 53, Forward Packet from:0 to 19
+55 produced! It's source ID :9
+Time: 374, Packet ID: 54, Forward Packet from:9 to 3
+Time: 374, Packet ID: 54, Forward Packet from:3 to 4
+Time: 374, Packet ID: 54, Forward Packet from:4 to 0
+Time: 374, Packet ID: 54, Forward Packet from:0 to 19
+56 produced! It's source ID :16
+Time: 386, Packet ID: 55, Forward Packet from:16 to 0
+Time: 386, Packet ID: 55, Forward Packet from:0 to 19
+57 produced! It's source ID :14
+Time: 388, Packet ID: 56, Forward Packet from:14 to 4
+Time: 388, Packet ID: 56, Forward Packet from:4 to 0
+Time: 388, Packet ID: 56, Forward Packet from:0 to 19
+Time: 6.5min <50m Use: 100.485
+Time: 6.5min >50m Use: 675.99
+58 produced! It's source ID :9
+Time: 396, Packet ID: 57, Forward Packet from:9 to 3
+Time: 396, Packet ID: 57, Forward Packet from:3 to 4
+Time: 396, Packet ID: 57, Forward Packet from:4 to 0
+Time: 396, Packet ID: 57, Forward Packet from:0 to 19
+59 produced! It's source ID :15
+Time: 400, Packet ID: 58, Forward Packet from:15 to 3
+Time: 400, Packet ID: 58, Forward Packet from:3 to 4
+Time: 400, Packet ID: 58, Forward Packet from:4 to 0
+Time: 400, Packet ID: 58, Forward Packet from:0 to 19
+60 produced! It's source ID :12
+Time: 403, Packet ID: 59, Forward Packet from:12 to 0
+Time: 403, Packet ID: 59, Forward Packet from:0 to 19
+61 produced! It's source ID :1
+Time: 406, Packet ID: 60, Forward Packet from:1 to 9
+Time: 406, Packet ID: 60, Forward Packet from:9 to 3
+Time: 406, Packet ID: 60, Forward Packet from:3 to 4
+Time: 406, Packet ID: 60, Forward Packet from:4 to 0
+Time: 406, Packet ID: 60, Forward Packet from:0 to 19
+62 produced! It's source ID :8
+Time: 407, Packet ID: 61, Forward Packet from:8 to 0
+Time: 407, Packet ID: 61, Forward Packet from:0 to 19
+63 produced! It's source ID :13
+Time: 411, Packet ID: 62, Forward Packet from:13 to 9
+Time: 411, Packet ID: 62, Forward Packet from:9 to 3
+Time: 411, Packet ID: 62, Forward Packet from:3 to 4
+Time: 411, Packet ID: 62, Forward Packet from:4 to 0
+Time: 411, Packet ID: 62, Forward Packet from:0 to 19
+64 produced! It's source ID :4
+Time: 417, Packet ID: 63, Forward Packet from:4 to 0
+Time: 417, Packet ID: 63, Forward Packet from:0 to 19
+Time: 7min <50m Use: 118.755
+Time: 7min >50m Use: 751.354
+65 produced! It's source ID :8
+Time: 423, Packet ID: 64, Forward Packet from:8 to 0
+Time: 423, Packet ID: 64, Forward Packet from:0 to 19
+66 produced! It's source ID :18
+Time: 435, Packet ID: 65, Forward Packet from:18 to 4
+Time: 435, Packet ID: 65, Forward Packet from:4 to 0
+Time: 435, Packet ID: 65, Forward Packet from:0 to 19
+67 produced! It's source ID :4
+Time: 443, Packet ID: 66, Forward Packet from:4 to 0
+Time: 443, Packet ID: 66, Forward Packet from:0 to 19
+68 produced! It's source ID :14
+Time: 449, Packet ID: 67, Forward Packet from:14 to 4
+Time: 449, Packet ID: 67, Forward Packet from:4 to 0
+Time: 449, Packet ID: 67, Forward Packet from:0 to 19
+Time: 7.5min <50m Use: 118.755
+Time: 7.5min >50m Use: 787.894
+69 produced! It's source ID :6
+Time: 469, Packet ID: 68, Forward Packet from:6 to 0
+Time: 469, Packet ID: 68, Forward Packet from:0 to 19
+70 produced! It's source ID :4
+Time: 472, Packet ID: 69, Forward Packet from:4 to 0
+Time: 472, Packet ID: 69, Forward Packet from:0 to 19
+71 produced! It's source ID :1
+Time: 480, Packet ID: 70, Forward Packet from:1 to 9
+Time: 480, Packet ID: 70, Forward Packet from:9 to 3
+Time: 480, Packet ID: 70, Forward Packet from:3 to 4
+Time: 8min <50m Use: 123.196
+Time: 8min >50m Use: 808.574
+Time: 480, Packet ID: 70, Forward Packet from:4 to 0
+Time: 480, Packet ID: 70, Forward Packet from:0 to 19
+72 produced! It's source ID :7
+Time: 485, Packet ID: 71, Forward Packet from:7 to 4
+Time: 485, Packet ID: 71, Forward Packet from:4 to 0
+Time: 485, Packet ID: 71, Forward Packet from:0 to 19
+73 produced! It's source ID :8
+Time: 489, Packet ID: 72, Forward Packet from:8 to 0
+Time: 489, Packet ID: 72, Forward Packet from:0 to 19
+74 produced! It's source ID :8
+Time: 495, Packet ID: 73, Forward Packet from:8 to 0
+Time: 495, Packet ID: 73, Forward Packet from:0 to 19
+75 produced! It's source ID :12
+Time: 496, Packet ID: 74, Forward Packet from:12 to 0
+Time: 496, Packet ID: 74, Forward Packet from:0 to 19
+76 produced! It's source ID :17
+Time: 501, Packet ID: 75, Forward Packet from:17 to 0
+Time: 501, Packet ID: 75, Forward Packet from:0 to 19
+77 produced! It's source ID :6
+Time: 506, Packet ID: 76, Forward Packet from:6 to 0
+Time: 506, Packet ID: 76, Forward Packet from:0 to 19
+Time: 8.5min <50m Use: 123.322
+Time: 8.5min >50m Use: 863.258
+78 produced! It's source ID :0
+Time: 523, Packet ID: 77, Forward Packet from:0 to 19
+79 produced! It's source ID :3
+Time: 526, Packet ID: 78, Forward Packet from:3 to 4
+Time: 526, Packet ID: 78, Forward Packet from:4 to 0
+Time: 526, Packet ID: 78, Forward Packet from:0 to 19
+80 produced! It's source ID :0
+Time: 529, Packet ID: 79, Forward Packet from:0 to 19
+Time: 9min <50m Use: 125.606
+Time: 9min >50m Use: 876.96
+81 produced! It's source ID :4
+Time: 543, Packet ID: 80, Forward Packet from:4 to 0
+Time: 543, Packet ID: 80, Forward Packet from:0 to 19
+82 produced! It's source ID :3
+Time: 545, Packet ID: 81, Forward Packet from:3 to 4
+Time: 545, Packet ID: 81, Forward Packet from:4 to 0
+Time: 545, Packet ID: 81, Forward Packet from:0 to 19
+83 produced! It's source ID :4
+Time: 547, Packet ID: 82, Forward Packet from:4 to 0
+Time: 547, Packet ID: 82, Forward Packet from:0 to 19
+84 produced! It's source ID :5
+Time: 549, Packet ID: 83, Forward Packet from:5 to 4
+Time: 549, Packet ID: 83, Forward Packet from:4 to 0
+Time: 549, Packet ID: 83, Forward Packet from:0 to 19
+85 produced! It's source ID :7
+Time: 557, Packet ID: 84, Forward Packet from:7 to 4
+Time: 557, Packet ID: 84, Forward Packet from:4 to 0
+Time: 557, Packet ID: 84, Forward Packet from:0 to 19
+86 produced! It's source ID :3
+Time: 562, Packet ID: 85, Forward Packet from:3 to 4
+Time: 562, Packet ID: 85, Forward Packet from:4 to 0
+Time: 562, Packet ID: 85, Forward Packet from:0 to 19
+87 produced! It's source ID :17
+Time: 565, Packet ID: 86, Forward Packet from:17 to 0
+Time: 565, Packet ID: 86, Forward Packet from:0 to 19
+Time: 9.5min <50m Use: 130.174
+Time: 9.5min >50m Use: 938.621
+88 produced! It's source ID :18
+Time: 571, Packet ID: 87, Forward Packet from:18 to 4
+Time: 571, Packet ID: 87, Forward Packet from:4 to 0
+Time: 571, Packet ID: 87, Forward Packet from:0 to 19
+89 produced! It's source ID :8
+Time: 575, Packet ID: 88, Forward Packet from:8 to 0
+Time: 575, Packet ID: 88, Forward Packet from:0 to 19
+90 produced! It's source ID :14
+Time: 577, Packet ID: 89, Forward Packet from:14 to 4
+Time: 577, Packet ID: 89, Forward Packet from:4 to 0
+Time: 577, Packet ID: 89, Forward Packet from:0 to 19
+91 produced! It's source ID :9
+Time: 582, Packet ID: 90, Forward Packet from:9 to 3
+Time: 582, Packet ID: 90, Forward Packet from:3 to 4
+Time: 582, Packet ID: 90, Forward Packet from:4 to 0
+Time: 582, Packet ID: 90, Forward Packet from:0 to 19
+92 produced! It's source ID :8
+Time: 584, Packet ID: 91, Forward Packet from:8 to 0
+Time: 584, Packet ID: 91, Forward Packet from:0 to 19
+93 produced! It's source ID :10
+Time: 588, Packet ID: 92, Forward Packet from:10 to 0
+Time: 588, Packet ID: 92, Forward Packet from:0 to 19
+94 produced! It's source ID :6
+Time: 594, Packet ID: 93, Forward Packet from:6 to 0
+Time: 594, Packet ID: 93, Forward Packet from:0 to 19
+Time: 10min <50m Use: 134.741
+Time: 10min >50m Use: 1000.28
+95 produced! It's source ID :16
+Time: 600, Packet ID: 94, Forward Packet from:16 to 0
+Time: 600, Packet ID: 94, Forward Packet from:0 to 19
+96 produced! It's source ID :4
+Time: 612, Packet ID: 95, Forward Packet from:4 to 0
+Time: 612, Packet ID: 95, Forward Packet from:0 to 19
+97 produced! It's source ID :4
+Time: 617, Packet ID: 96, Forward Packet from:4 to 0
+Time: 617, Packet ID: 96, Forward Packet from:0 to 19
+98 produced! It's source ID :18
+Time: 620, Packet ID: 97, Forward Packet from:18 to 4
+Time: 620, Packet ID: 97, Forward Packet from:4 to 0
+Time: 620, Packet ID: 97, Forward Packet from:0 to 19
+99 produced! It's source ID :14
+Time: 621, Packet ID: 98, Forward Packet from:14 to 4
+Time: 621, Packet ID: 98, Forward Packet from:4 to 0
+Time: 621, Packet ID: 98, Forward Packet from:0 to 19
+100 produced! It's source ID :16
+Time: 626, Packet ID: 99, Forward Packet from:16 to 0
+Time: 626, Packet ID: 99, Forward Packet from:0 to 19
+101 produced! It's source ID :0
+Time: 628, Packet ID: 100, Forward Packet from:0 to 19
+Time: 10.5min <50m Use: 134.741
+Time: 10.5min >50m Use: 1052.81
+102 produced! It's source ID :1
+Time: 632, Packet ID: 101, Forward Packet from:1 to 9
+Time: 632, Packet ID: 101, Forward Packet from:9 to 3
+Time: 632, Packet ID: 101, Forward Packet from:3 to 4
+Time: 632, Packet ID: 101, Forward Packet from:4 to 0
+Time: 632, Packet ID: 101, Forward Packet from:0 to 19
+103 produced! It's source ID :13
+Time: 633, Packet ID: 102, Forward Packet from:13 to 9
+Time: 633, Packet ID: 102, Forward Packet from:9 to 3
+Time: 633, Packet ID: 102, Forward Packet from:3 to 4
+Time: 633, Packet ID: 102, Forward Packet from:4 to 0
+Time: 633, Packet ID: 102, Forward Packet from:0 to 19
+104 produced! It's source ID :18
+Time: 634, Packet ID: 103, Forward Packet from:18 to 4
+Time: 634, Packet ID: 103, Forward Packet from:4 to 0
+Time: 634, Packet ID: 103, Forward Packet from:0 to 19
+105 produced! It's source ID :0
+Time: 635, Packet ID: 104, Forward Packet from:0 to 19
+106 produced! It's source ID :7
+Time: 643, Packet ID: 105, Forward Packet from:7 to 4
+Time: 643, Packet ID: 105, Forward Packet from:4 to 0
+Time: 643, Packet ID: 105, Forward Packet from:0 to 19
+107 produced! It's source ID :14
+Time: 644, Packet ID: 106, Forward Packet from:14 to 4
+Time: 644, Packet ID: 106, Forward Packet from:4 to 0
+Time: 644, Packet ID: 106, Forward Packet from:0 to 19
+108 produced! It's source ID :6
+Time: 659, Packet ID: 107, Forward Packet from:6 to 0
+Time: 659, Packet ID: 107, Forward Packet from:0 to 19
+Time: 11min <50m Use: 143.876
+Time: 11min >50m Use: 1128.17
+109 produced! It's source ID :11
+Time: 666, Packet ID: 108, Forward Packet from:11 to 0
+Time: 666, Packet ID: 108, Forward Packet from:0 to 19
+110 produced! It's source ID :12
+Time: 671, Packet ID: 109, Forward Packet from:12 to 0
+Time: 671, Packet ID: 109, Forward Packet from:0 to 19
+111 produced! It's source ID :9
+Time: 678, Packet ID: 110, Forward Packet from:9 to 3
+Time: 678, Packet ID: 110, Forward Packet from:3 to 4
+Time: 678, Packet ID: 110, Forward Packet from:4 to 0
+Time: 678, Packet ID: 110, Forward Packet from:0 to 19
+Time: 11.5min <50m Use: 150.728
+Time: 11.5min >50m Use: 1151.01
+112 produced! It's source ID :1
+Time: 690, Packet ID: 111, Forward Packet from:1 to 9
+Time: 690, Packet ID: 111, Forward Packet from:9 to 3
+Time: 690, Packet ID: 111, Forward Packet from:3 to 4
+Time: 690, Packet ID: 111, Forward Packet from:4 to 0
+Time: 690, Packet ID: 111, Forward Packet from:0 to 19
+113 produced! It's source ID :9
+Time: 691, Packet ID: 112, Forward Packet from:9 to 3
+Time: 691, Packet ID: 112, Forward Packet from:3 to 4
+Time: 691, Packet ID: 112, Forward Packet from:4 to 0
+Time: 691, Packet ID: 112, Forward Packet from:0 to 19
+114 produced! It's source ID :12
+Time: 694, Packet ID: 113, Forward Packet from:12 to 0
+Time: 694, Packet ID: 113, Forward Packet from:0 to 19
+115 produced! It's source ID :5
+Time: 705, Packet ID: 114, Forward Packet from:5 to 4
+Time: 705, Packet ID: 114, Forward Packet from:4 to 0
+Time: 705, Packet ID: 114, Forward Packet from:0 to 19
+116 produced! It's source ID :0
+Time: 715, Packet ID: 115, Forward Packet from:0 to 19
+117 produced! It's source ID :0
+Time: 719, Packet ID: 116, Forward Packet from:0 to 19
+118 produced! It's source ID :9
+Time: 12min <50m Use: 159.863
+Time: 12min >50m Use: 1201.25
+Time: 720, Packet ID: 117, Forward Packet from:9 to 3
+Time: 720, Packet ID: 117, Forward Packet from:3 to 4
+Time: 720, Packet ID: 117, Forward Packet from:4 to 0
+Time: 720, Packet ID: 117, Forward Packet from:0 to 19
+119 produced! It's source ID :12
+Time: 723, Packet ID: 118, Forward Packet from:12 to 0
+Time: 723, Packet ID: 118, Forward Packet from:0 to 19
+120 produced! It's source ID :18
+Time: 732, Packet ID: 119, Forward Packet from:18 to 4
+Time: 732, Packet ID: 119, Forward Packet from:4 to 0
+Time: 732, Packet ID: 119, Forward Packet from:0 to 19
+121 produced! It's source ID :11
+Time: 733, Packet ID: 120, Forward Packet from:11 to 0
+Time: 733, Packet ID: 120, Forward Packet from:0 to 19
+122 produced! It's source ID :17
+Time: 738, Packet ID: 121, Forward Packet from:17 to 0
+Time: 738, Packet ID: 121, Forward Packet from:0 to 19
+123 produced! It's source ID :15
+Time: 742, Packet ID: 122, Forward Packet from:15 to 3
+Time: 742, Packet ID: 122, Forward Packet from:3 to 4
+Time: 742, Packet ID: 122, Forward Packet from:4 to 0
+Time: 742, Packet ID: 122, Forward Packet from:0 to 19
+Time: 12.5min <50m Use: 171.281
+Time: 12.5min >50m Use: 1253.78
+124 produced! It's source ID :11
+Time: 751, Packet ID: 123, Forward Packet from:11 to 0
+Time: 751, Packet ID: 123, Forward Packet from:0 to 19
+125 produced! It's source ID :10
+Time: 752, Packet ID: 124, Forward Packet from:10 to 0
+Time: 752, Packet ID: 124, Forward Packet from:0 to 19
+126 produced! It's source ID :0
+Time: 754, Packet ID: 125, Forward Packet from:0 to 19
+127 produced! It's source ID :10
+Time: 767, Packet ID: 126, Forward Packet from:10 to 0
+Time: 767, Packet ID: 126, Forward Packet from:0 to 19
+128 produced! It's source ID :18
+Time: 771, Packet ID: 127, Forward Packet from:18 to 4
+Time: 771, Packet ID: 127, Forward Packet from:4 to 0
+Time: 771, Packet ID: 127, Forward Packet from:0 to 19
+129 produced! It's source ID :2
+Time: 779, Packet ID: 128, Forward Packet from:2 to 0
+Time: 779, Packet ID: 128, Forward Packet from:0 to 19
+Time: 13min <50m Use: 175.849
+Time: 13min >50m Use: 1290.32
+130 produced! It's source ID :13
+Time: 781, Packet ID: 129, Forward Packet from:13 to 9
+Time: 781, Packet ID: 129, Forward Packet from:9 to 3
+Time: 781, Packet ID: 129, Forward Packet from:3 to 4
+Time: 781, Packet ID: 129, Forward Packet from:4 to 0
+Time: 781, Packet ID: 129, Forward Packet from:0 to 19
+131 produced! It's source ID :6
+Time: 786, Packet ID: 130, Forward Packet from:6 to 0
+Time: 786, Packet ID: 130, Forward Packet from:0 to 19
+132 produced! It's source ID :17
+Time: 787, Packet ID: 131, Forward Packet from:17 to 0
+Time: 787, Packet ID: 131, Forward Packet from:0 to 19
+133 produced! It's source ID :18
+Time: 792, Packet ID: 132, Forward Packet from:18 to 4
+Time: 792, Packet ID: 132, Forward Packet from:4 to 0
+Time: 792, Packet ID: 132, Forward Packet from:0 to 19
+134 produced! It's source ID :3
+Time: 793, Packet ID: 133, Forward Packet from:3 to 4
+Time: 793, Packet ID: 133, Forward Packet from:4 to 0
+Time: 793, Packet ID: 133, Forward Packet from:0 to 19
+135 produced! It's source ID :14
+Time: 795, Packet ID: 134, Forward Packet from:14 to 4
+Time: 795, Packet ID: 134, Forward Packet from:4 to 0
+Time: 795, Packet ID: 134, Forward Packet from:0 to 19
+136 produced! It's source ID :16
+Time: 799, Packet ID: 135, Forward Packet from:16 to 0
+Time: 799, Packet ID: 135, Forward Packet from:0 to 19
+137 produced! It's source ID :8
+Time: 804, Packet ID: 136, Forward Packet from:8 to 0
+Time: 804, Packet ID: 136, Forward Packet from:0 to 19
+138 produced! It's source ID :11
+Time: 807, Packet ID: 137, Forward Packet from:11 to 0
+Time: 807, Packet ID: 137, Forward Packet from:0 to 19
+Time: 13.5min <50m Use: 184.984
+Time: 13.5min >50m Use: 1370.25
+139 produced! It's source ID :9
+Time: 817, Packet ID: 138, Forward Packet from:9 to 3
+Time: 817, Packet ID: 138, Forward Packet from:3 to 4
+Time: 817, Packet ID: 138, Forward Packet from:4 to 0
+Time: 817, Packet ID: 138, Forward Packet from:0 to 19
+140 produced! It's source ID :9
+Time: 820, Packet ID: 139, Forward Packet from:9 to 3
+Time: 820, Packet ID: 139, Forward Packet from:3 to 4
+Time: 820, Packet ID: 139, Forward Packet from:4 to 0
+Time: 820, Packet ID: 139, Forward Packet from:0 to 19
+141 produced! It's source ID :8
+Time: 824, Packet ID: 140, Forward Packet from:8 to 0
+Time: 824, Packet ID: 140, Forward Packet from:0 to 19
+142 produced! It's source ID :15
+Time: 832, Packet ID: 141, Forward Packet from:15 to 3
+Time: 832, Packet ID: 141, Forward Packet from:3 to 4
+Time: 832, Packet ID: 141, Forward Packet from:4 to 0
+Time: 832, Packet ID: 141, Forward Packet from:0 to 19
+143 produced! It's source ID :1
+Time: 833, Packet ID: 142, Forward Packet from:1 to 9
+Time: 833, Packet ID: 142, Forward Packet from:9 to 3
+Time: 833, Packet ID: 142, Forward Packet from:3 to 4
+Time: 833, Packet ID: 142, Forward Packet from:4 to 0
+Time: 833, Packet ID: 142, Forward Packet from:0 to 19
+144 produced! It's source ID :11
+Time: 839, Packet ID: 143, Forward Packet from:11 to 0
+Time: 839, Packet ID: 143, Forward Packet from:0 to 19
+Time: 14min <50m Use: 205.538
+Time: 14min >50m Use: 1431.91
+145 produced! It's source ID :15
+Time: 859, Packet ID: 144, Forward Packet from:15 to 3
+Time: 859, Packet ID: 144, Forward Packet from:3 to 4
+Time: 859, Packet ID: 144, Forward Packet from:4 to 0
+Time: 859, Packet ID: 144, Forward Packet from:0 to 19
+Time: 14.5min <50m Use: 210.105
+Time: 14.5min >50m Use: 1443.33
+146 produced! It's source ID :18
+Time: 870, Packet ID: 145, Forward Packet from:18 to 4
+Time: 870, Packet ID: 145, Forward Packet from:4 to 0
+Time: 870, Packet ID: 145, Forward Packet from:0 to 19
+147 produced! It's source ID :12
+Time: 872, Packet ID: 146, Forward Packet from:12 to 0
+Time: 872, Packet ID: 146, Forward Packet from:0 to 19
+148 produced! It's source ID :12
+Time: 879, Packet ID: 147, Forward Packet from:12 to 0
+Time: 879, Packet ID: 147, Forward Packet from:0 to 19
+149 produced! It's source ID :16
+Time: 880, Packet ID: 148, Forward Packet from:16 to 0
+Time: 880, Packet ID: 148, Forward Packet from:0 to 19
+150 produced! It's source ID :9
+Time: 890, Packet ID: 149, Forward Packet from:9 to 3
+Time: 890, Packet ID: 149, Forward Packet from:3 to 4
+Time: 890, Packet ID: 149, Forward Packet from:4 to 0
+Time: 890, Packet ID: 149, Forward Packet from:0 to 19
+151 produced! It's source ID :7
+Time: 892, Packet ID: 150, Forward Packet from:7 to 4
+Time: 892, Packet ID: 150, Forward Packet from:4 to 0
+Time: 892, Packet ID: 150, Forward Packet from:0 to 19
+152 produced! It's source ID :18
+Time: 898, Packet ID: 151, Forward Packet from:18 to 4
+Time: 898, Packet ID: 151, Forward Packet from:4 to 0
+Time: 898, Packet ID: 151, Forward Packet from:0 to 19
+Time: 15min <50m Use: 214.673
+Time: 15min >50m Use: 1509.56
+153 produced! It's source ID :4
+Time: 901, Packet ID: 152, Forward Packet from:4 to 0
+Time: 901, Packet ID: 152, Forward Packet from:0 to 19
+154 produced! It's source ID :17
+Time: 903, Packet ID: 153, Forward Packet from:17 to 0
+Time: 903, Packet ID: 153, Forward Packet from:0 to 19
+155 produced! It's source ID :9
+Time: 908, Packet ID: 154, Forward Packet from:9 to 3
+Time: 908, Packet ID: 154, Forward Packet from:3 to 4
+Time: 908, Packet ID: 154, Forward Packet from:4 to 0
+Time: 908, Packet ID: 154, Forward Packet from:0 to 19
+156 produced! It's source ID :2
+Time: 911, Packet ID: 155, Forward Packet from:2 to 0
+Time: 911, Packet ID: 155, Forward Packet from:0 to 19
+157 produced! It's source ID :0
+Time: 916, Packet ID: 156, Forward Packet from:0 to 19
+158 produced! It's source ID :18
+Time: 920, Packet ID: 157, Forward Packet from:18 to 4
+Time: 920, Packet ID: 157, Forward Packet from:4 to 0
+Time: 920, Packet ID: 157, Forward Packet from:0 to 19
+159 produced! It's source ID :18
+Time: 923, Packet ID: 158, Forward Packet from:18 to 4
+Time: 923, Packet ID: 158, Forward Packet from:4 to 0
+Time: 923, Packet ID: 158, Forward Packet from:0 to 19
+160 produced! It's source ID :17
+Time: 925, Packet ID: 159, Forward Packet from:17 to 0
+Time: 925, Packet ID: 159, Forward Packet from:0 to 19
+Time: 15.5min <50m Use: 221.524
+Time: 15.5min >50m Use: 1571.22
+161 produced! It's source ID :10
+Time: 935, Packet ID: 160, Forward Packet from:10 to 0
+Time: 935, Packet ID: 160, Forward Packet from:0 to 19
+162 produced! It's source ID :0
+Time: 939, Packet ID: 161, Forward Packet from:0 to 19
+163 produced! It's source ID :17
+Time: 943, Packet ID: 162, Forward Packet from:17 to 0
+Time: 943, Packet ID: 162, Forward Packet from:0 to 19
+164 produced! It's source ID :14
+Time: 944, Packet ID: 163, Forward Packet from:14 to 4
+Time: 944, Packet ID: 163, Forward Packet from:4 to 0
+Time: 944, Packet ID: 163, Forward Packet from:0 to 19
+165 produced! It's source ID :1
+Time: 956, Packet ID: 164, Forward Packet from:1 to 9
+Time: 956, Packet ID: 164, Forward Packet from:9 to 3
+Time: 956, Packet ID: 164, Forward Packet from:3 to 4
+Time: 956, Packet ID: 164, Forward Packet from:4 to 0
+Time: 956, Packet ID: 164, Forward Packet from:0 to 19
+166 produced! It's source ID :18
+Time: 959, Packet ID: 165, Forward Packet from:18 to 4
+Time: 959, Packet ID: 165, Forward Packet from:4 to 0
+Time: 959, Packet ID: 165, Forward Packet from:0 to 19
+Time: 16min <50m Use: 226.091
+Time: 16min >50m Use: 1626.03
+167 produced! It's source ID :18
+Time: 967, Packet ID: 166, Forward Packet from:18 to 4
+Time: 967, Packet ID: 166, Forward Packet from:4 to 0
+Time: 967, Packet ID: 166, Forward Packet from:0 to 19
+168 produced! It's source ID :6
+Time: 969, Packet ID: 167, Forward Packet from:6 to 0
+Time: 969, Packet ID: 167, Forward Packet from:0 to 19
+169 produced! It's source ID :15
+Time: 971, Packet ID: 168, Forward Packet from:15 to 3
+Time: 971, Packet ID: 168, Forward Packet from:3 to 4
+Time: 971, Packet ID: 168, Forward Packet from:4 to 0
+Time: 971, Packet ID: 168, Forward Packet from:0 to 19
+170 produced! It's source ID :17
+Time: 976, Packet ID: 169, Forward Packet from:17 to 0
+Time: 976, Packet ID: 169, Forward Packet from:0 to 19
+171 produced! It's source ID :1
+Time: 977, Packet ID: 170, Forward Packet from:1 to 9
+Time: 977, Packet ID: 170, Forward Packet from:9 to 3
+Time: 977, Packet ID: 170, Forward Packet from:3 to 4
+Time: 977, Packet ID: 170, Forward Packet from:4 to 0
+Time: 977, Packet ID: 170, Forward Packet from:0 to 19
+172 produced! It's source ID :11
+Time: 981, Packet ID: 171, Forward Packet from:11 to 0
+Time: 981, Packet ID: 171, Forward Packet from:0 to 19
+173 produced! It's source ID :0
+Time: 982, Packet ID: 172, Forward Packet from:0 to 19
+174 produced! It's source ID :4
+Time: 983, Packet ID: 173, Forward Packet from:4 to 0
+Time: 983, Packet ID: 173, Forward Packet from:0 to 19
+175 produced! It's source ID :5
+Time: 988, Packet ID: 174, Forward Packet from:5 to 4
+Time: 988, Packet ID: 174, Forward Packet from:4 to 0
+Time: 988, Packet ID: 174, Forward Packet from:0 to 19
+Time: 16.5min <50m Use: 237.51
+Time: 16.5min >50m Use: 1703.68
+176 produced! It's source ID :10
+Time: 994, Packet ID: 175, Forward Packet from:10 to 0
+Time: 994, Packet ID: 175, Forward Packet from:0 to 19
+177 produced! It's source ID :12
+Time: 996, Packet ID: 176, Forward Packet from:12 to 0
+Time: 996, Packet ID: 176, Forward Packet from:0 to 19
+178 produced! It's source ID :10
+Time: 998, Packet ID: 177, Forward Packet from:10 to 0
+Time: 998, Packet ID: 177, Forward Packet from:0 to 19
+179 produced! It's source ID :10
+Time: 1000, Packet ID: 178, Forward Packet from:10 to 0
+Time: 1000, Packet ID: 178, Forward Packet from:0 to 19
+180 produced! It's source ID :18
+Time: 1004, Packet ID: 179, Forward Packet from:18 to 4
+Time: 1004, Packet ID: 179, Forward Packet from:4 to 0
+Time: 1004, Packet ID: 179, Forward Packet from:0 to 19
+181 produced! It's source ID :12
+Time: 1006, Packet ID: 180, Forward Packet from:12 to 0
+Time: 1006, Packet ID: 180, Forward Packet from:0 to 19
+182 produced! It's source ID :7
+Time: 1007, Packet ID: 181, Forward Packet from:7 to 4
+Time: 1007, Packet ID: 181, Forward Packet from:4 to 0
+Time: 1007, Packet ID: 181, Forward Packet from:0 to 19
+183 produced! It's source ID :2
+Time: 1008, Packet ID: 182, Forward Packet from:2 to 0
+Time: 1008, Packet ID: 182, Forward Packet from:0 to 19
+184 produced! It's source ID :2
+Time: 1012, Packet ID: 183, Forward Packet from:2 to 0
+Time: 1012, Packet ID: 183, Forward Packet from:0 to 19
+185 produced! It's source ID :12
+Time: 1017, Packet ID: 184, Forward Packet from:12 to 0
+Time: 1017, Packet ID: 184, Forward Packet from:0 to 19
+Time: 17min <50m Use: 242.078
+Time: 17min >50m Use: 1776.76
+186 produced! It's source ID :2
+Time: 1022, Packet ID: 185, Forward Packet from:2 to 0
+Time: 1022, Packet ID: 185, Forward Packet from:0 to 19
+187 produced! It's source ID :3
+Time: 1027, Packet ID: 186, Forward Packet from:3 to 4
+Time: 1027, Packet ID: 186, Forward Packet from:4 to 0
+Time: 1027, Packet ID: 186, Forward Packet from:0 to 19
+188 produced! It's source ID :4
+Time: 1030, Packet ID: 187, Forward Packet from:4 to 0
+Time: 1030, Packet ID: 187, Forward Packet from:0 to 19
+189 produced! It's source ID :7
+Time: 1034, Packet ID: 188, Forward Packet from:7 to 4
+Time: 1034, Packet ID: 188, Forward Packet from:4 to 0
+Time: 1034, Packet ID: 188, Forward Packet from:0 to 19
+190 produced! It's source ID :9
+Time: 1037, Packet ID: 189, Forward Packet from:9 to 3
+Time: 1037, Packet ID: 189, Forward Packet from:3 to 4
+Time: 1037, Packet ID: 189, Forward Packet from:4 to 0
+Time: 1037, Packet ID: 189, Forward Packet from:0 to 19
+191 produced! It's source ID :5
+Time: 1039, Packet ID: 190, Forward Packet from:5 to 4
+Time: 1039, Packet ID: 190, Forward Packet from:4 to 0
+Time: 1039, Packet ID: 190, Forward Packet from:0 to 19
+192 produced! It's source ID :14
+Time: 1047, Packet ID: 191, Forward Packet from:14 to 4
+Time: 1047, Packet ID: 191, Forward Packet from:4 to 0
+Time: 1047, Packet ID: 191, Forward Packet from:0 to 19
+Time: 17.5min <50m Use: 251.213
+Time: 17.5min >50m Use: 1842.99
+193 produced! It's source ID :7
+Time: 1052, Packet ID: 192, Forward Packet from:7 to 4
+Time: 1052, Packet ID: 192, Forward Packet from:4 to 0
+Time: 1052, Packet ID: 192, Forward Packet from:0 to 19
+194 produced! It's source ID :12
+Time: 1056, Packet ID: 193, Forward Packet from:12 to 0
+Time: 1056, Packet ID: 193, Forward Packet from:0 to 19
+195 produced! It's source ID :16
+Time: 1060, Packet ID: 194, Forward Packet from:16 to 0
+Time: 1060, Packet ID: 194, Forward Packet from:0 to 19
+196 produced! It's source ID :12
+Time: 1061, Packet ID: 195, Forward Packet from:12 to 0
+Time: 1061, Packet ID: 195, Forward Packet from:0 to 19
+197 produced! It's source ID :3
+Time: 1066, Packet ID: 196, Forward Packet from:3 to 4
+Time: 1066, Packet ID: 196, Forward Packet from:4 to 0
+Time: 1066, Packet ID: 196, Forward Packet from:0 to 19
+198 produced! It's source ID :13
+Time: 1068, Packet ID: 197, Forward Packet from:13 to 9
+Time: 1068, Packet ID: 197, Forward Packet from:9 to 3
+Time: 1068, Packet ID: 197, Forward Packet from:3 to 4
+Time: 1068, Packet ID: 197, Forward Packet from:4 to 0
+Time: 1068, Packet ID: 197, Forward Packet from:0 to 19
+199 produced! It's source ID :10
+Time: 1078, Packet ID: 198, Forward Packet from:10 to 0
+Time: 1078, Packet ID: 198, Forward Packet from:0 to 19
+200 produced! It's source ID :14
+Time: 1079, Packet ID: 199, Forward Packet from:14 to 4
+Time: 1079, Packet ID: 199, Forward Packet from:4 to 0
+Time: 1079, Packet ID: 199, Forward Packet from:0 to 19
+Time: 18min <50m Use: 258.064
+Time: 18min >50m Use: 1918.35
+201 produced! It's source ID :13
+Time: 1080, Packet ID: 200, Forward Packet from:13 to 9
+Time: 1080, Packet ID: 200, Forward Packet from:9 to 3
+Time: 1080, Packet ID: 200, Forward Packet from:3 to 4
+Time: 1080, Packet ID: 200, Forward Packet from:4 to 0
+Time: 1080, Packet ID: 200, Forward Packet from:0 to 19
+202 produced! It's source ID :17
+Time: 1083, Packet ID: 201, Forward Packet from:17 to 0
+Time: 1083, Packet ID: 201, Forward Packet from:0 to 19
+203 produced! It's source ID :9
+Time: 1088, Packet ID: 202, Forward Packet from:9 to 3
+204 produced! It's source ID :11
+Time: 1089, Packet ID: 203, Forward Packet from:11 to 0
+Time: 1089, Packet ID: 203, Forward Packet from:0 to 19
+205 produced! It's source ID :11
+Time: 1095, Packet ID: 204, Forward Packet from:11 to 0
+Time: 1095, Packet ID: 204, Forward Packet from:0 to 19
+206 produced! It's source ID :10
+Time: 1098, Packet ID: 205, Forward Packet from:10 to 0
+Time: 1098, Packet ID: 205, Forward Packet from:0 to 19
+Time: 18.5min <50m Use: 297.776
+Time: 18.5min >50m Use: 1960.85
+207 produced! It's source ID :4
+Time: 1111, Packet ID: 206, Forward Packet from:4 to 0
+Time: 1111, Packet ID: 206, Forward Packet from:0 to 19
+208 produced! It's source ID :5
+Time: 1124, Packet ID: 207, Forward Packet from:5 to 4
+Time: 1124, Packet ID: 207, Forward Packet from:4 to 0
+Time: 1124, Packet ID: 207, Forward Packet from:0 to 19
+209 produced! It's source ID :12
+Time: 1137, Packet ID: 208, Forward Packet from:12 to 0
+Time: 1137, Packet ID: 208, Forward Packet from:0 to 19
+Time: 19min <50m Use: 297.776
+Time: 19min >50m Use: 1985.97
+210 produced! It's source ID :5
+Time: 1141, Packet ID: 209, Forward Packet from:5 to 4
+Time: 1141, Packet ID: 209, Forward Packet from:4 to 0
+Time: 1141, Packet ID: 209, Forward Packet from:0 to 19
+211 produced! It's source ID :14
+Time: 1149, Packet ID: 210, Forward Packet from:14 to 4
+Time: 1149, Packet ID: 210, Forward Packet from:4 to 0
+Time: 1149, Packet ID: 210, Forward Packet from:0 to 19
+212 produced! It's source ID :16
+Time: 1153, Packet ID: 211, Forward Packet from:16 to 0
+Time: 1153, Packet ID: 211, Forward Packet from:0 to 19
+Time: 19.5min <50m Use: 297.776
+Time: 19.5min >50m Use: 2015.66
+213 produced! It's source ID :1
+Time: 1179, Packet ID: 212, Forward Packet from:1 to 9
+Time: 1179, Packet ID: 212, Forward Packet from:9 to 3
+214 produced! It's source ID :15
+Time: 1180, Packet ID: 213, Forward Packet from:15 to 3
+Time: 1180, Packet ID: 212, Forward Packet from:9 to 3
+Time: 1181, Packet ID: 212, Forward Packet from:9 to 3
+Time: 1182, Packet ID: 212, Forward Packet from:9 to 3
+215 produced! It's source ID :0
+Time: 1184, Packet ID: 214, Forward Packet from:0 to 19
+216 produced! It's source ID :0
+Time: 1191, Packet ID: 215, Forward Packet from:0 to 19
+217 produced! It's source ID :4
+Time: 1198, Packet ID: 216, Forward Packet from:4 to 0
+Time: 1198, Packet ID: 216, Forward Packet from:0 to 19
+Time: 20min <50m Use: 300.694
+Time: 20min >50m Use: 2076.69
