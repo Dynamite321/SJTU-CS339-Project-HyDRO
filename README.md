@@ -7,4 +7,11 @@ This project is finished by Chen Wang, Yanjun Fu, Ke Li and Yongqing Xu. The C++
 
 ## Reinforcement Learning Based Routing
 
-The routing algorithm utilizes the traditional reinforcement learning algorithm: **Q-Learning**.
+The routing algorithm utilizes the traditional reinforcement learning algorithm: **Q-Learning**. The algorithm chooses relays, taking both residual energy and fore- seeable harvestable energy into account.
+
+## Multi-thread Programming
+Our program is using multi-thread techniques.
+
+## Implicit ACK
+The pipeline is shown below.
+![2](./figure/1.pdf)
