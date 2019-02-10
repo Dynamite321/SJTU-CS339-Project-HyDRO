@@ -20,6 +20,7 @@ The pipeline is shown below.
 
 ## Simulation Parameters
 | **Parameter** | **Value** |
+| ------- | :-----: |
 | Simulation duration | 20min |
 | Number of nodes | 20 |
 | Size of deployment area | 2km^2 |
