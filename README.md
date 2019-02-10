@@ -32,7 +32,7 @@ The pipeline is shown below.
 | Number of retransmissions K | \[5,4,3\](low to high) |
 | Discount factor \gamma | 0.95 |
 
-## Simulation by NS2
+## Simulation & Visualization by NS2
 For the video of our simulation, please refer to the PPT.
 <div align="left">
     <img src="./figure/visual.png" width="500">
