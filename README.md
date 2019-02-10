@@ -23,7 +23,7 @@ The pipeline is shown below.
 | ------- | :-----: |
 | Simulation duration | 20min |
 | Number of nodes | 20 |
-| Size of deployment area | 2km^2 |
+| Size of deployment area | 2km<sup>2</sup> |
 | Depth of deployment | 10m~240m |
 | Bit rate | 4000b/s |
 | Packet payload size | 1000B |
