@@ -14,4 +14,6 @@ Our program is using multi-thread techniques.
 
 ## Implicit ACK
 The pipeline is shown below.
-![2](./figure/1.pdf)
+<div align="center">
+    <img src="../figure/1.pdf" width="350">
+</div>
