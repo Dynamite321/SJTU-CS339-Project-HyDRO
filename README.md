@@ -34,11 +34,28 @@ The pipeline is shown below.
 
 ## Simulation by NS2
 For the video of our simulation, please refer to the PPT.
-![3](./figure/visual.png)
+<div align="left">
+    <img src="./figure/visual.png" width="500">
+</div>
 
 ## Results
 - Energy consumption statistics
-![4](./figure/routing-change.png)
+<div align="left">
+    <img src="./figure/routing-change.png" width="500">
+</div>
 
-## Run
-You can adjust parameters in file `.code/HyDRO/include/parameters.h`
+## Make & Run
+You can adjust parameters in file `./code/HyDRO/include/parameters.h`
+- Make
+```bash
+cd ./code/HyDRO/include/parameters.h
+rm -rf build
+mkdir build && cd build
+cmake..
+make
+```
+- Run
+```bash
+./main
+```
+All the intermediate results are available in `./code/HyDRO/build/out.txt`
