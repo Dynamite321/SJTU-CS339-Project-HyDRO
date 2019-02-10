@@ -17,3 +17,16 @@ The pipeline is shown below.
 <div align="center">
     <img src="./figure/1.png" width="350">
 </div>
+
+## Simulation Parameters
+|**Parameter**|**Value**|
+|Simulation duration|20min|
+|Number of nodes|20|
+|Size of deployment area|2km^2|
+|Depth of deployment|10m~240m|
+|Bit rate|4000b/s|
+|Packet payload size|1000B|
+|Packet header size|15B|
+|Packet inter-arrival time|\[5,4,3\](low to high traffic)|
+|Number of retransmissions K|\[5,4,3\](low to high)|
+|Discount factor \gamma|0.95|
