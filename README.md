@@ -14,7 +14,9 @@ Our program is using multi-thread techniques.
 
 ## Implicit ACK
 The pipeline is shown below.
-![2](./figure/1.png)
+<div align="left">
+    <img src="./figure/1.png" width="400">
+</div>
 
 ## Simulation Parameters
 | **Parameter** | **Value** |
